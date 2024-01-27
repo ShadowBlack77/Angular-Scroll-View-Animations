@@ -7,11 +7,13 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { SectionOneComponent } from './components/section-one/section-one.component';
+import { SectionTwoComponent } from './components/section-two/section-two.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SectionOneComponent
+    SectionOneComponent,
+    SectionTwoComponent
   ],
   imports: [
     BrowserModule,
