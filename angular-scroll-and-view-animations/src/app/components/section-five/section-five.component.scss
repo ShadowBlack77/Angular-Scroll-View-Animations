@@ -1,0 +1,13 @@
+#section-five {
+  height: 100vh;
+  background-color: #2e293a;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  div {
+    background-color: black;
+    width: 300px;
+    height: 60vh;
+  }
+}

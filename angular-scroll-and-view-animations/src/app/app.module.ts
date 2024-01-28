@@ -10,6 +10,7 @@ import { SectionOneComponent } from './components/section-one/section-one.compon
 import { SectionTwoComponent } from './components/section-two/section-two.component';
 import { SectionThreeComponent } from './components/section-three/section-three.component';
 import { SectionFourComponent } from './components/section-four/section-four.component';
+import { SectionFiveComponent } from './components/section-five/section-five.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { SectionFourComponent } from './components/section-four/section-four.com
     SectionOneComponent,
     SectionTwoComponent,
     SectionThreeComponent,
-    SectionFourComponent
+    SectionFourComponent,
+    SectionFiveComponent
   ],
   imports: [
     BrowserModule,
