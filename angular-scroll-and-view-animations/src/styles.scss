@@ -23,3 +23,12 @@ section {
     text-align: center;
   }
 }
+
+::-webkit-scrollbar {
+  background-color: #2e293a;
+  width: 3px;
+}
+
+::-webkit-scrollbar-thumb { 
+  background-color: white;
+}
